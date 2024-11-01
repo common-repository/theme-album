@@ -1,0 +1,10 @@
+
+.theme-album { padding: 10px 10px 10px 10px; margin: 10px 10px 10px 0; }
+
+.theme-album h2 { display:inline; }
+
+.theme-album.border { border: 3px solid #dddddd; }
+
+.theme-album-buttons { 
+        float: right; 
+}
